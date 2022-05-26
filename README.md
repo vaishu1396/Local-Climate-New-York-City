@@ -1,2 +1,2 @@
 # Local-Climate-New-York-City
-Impact of Local Climate Zones on Land Surface Temperature
+Classifiying Local Climate Zones from Satellite Imagery through Convolutional Neural Networks
